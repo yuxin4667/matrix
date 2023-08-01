@@ -3,7 +3,7 @@
 #include <cstring>
 #include <cstdio>
 using namespace std;
-
+//eeee
 int main()
 {
 	int data;
